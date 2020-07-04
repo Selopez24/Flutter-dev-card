@@ -73,7 +73,7 @@ class MyApp extends StatelessWidget {
                 margin: EdgeInsets.symmetric(horizontal: 25, vertical: 10),
                 child: ListTile(
                   leading: Icon(
-                    Icons.phone,
+                    Icons.email,
                     color: Color.fromARGB(255, 30, 50, 56),
                   ),
                   title: Text(
